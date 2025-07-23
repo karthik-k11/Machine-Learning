@@ -7,7 +7,7 @@ This repository contains various Machine Learning models and projects demonstrat
 - Evaluation metrics
 
 ## Technologies Used
-- Python 3.x
+- Python 3.13
 - Jupyter Notebook
 - NumPy
 - Pandas
