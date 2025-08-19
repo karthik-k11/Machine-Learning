@@ -34,4 +34,5 @@ The aim of this repository is to build a strong foundation in **machine learning
 ## 📌 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Machine-Learning.git
+   git clone https://github.com/karthik-k11/Machine-Learning.git
+
