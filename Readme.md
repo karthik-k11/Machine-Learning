@@ -1,6 +1,6 @@
 # Machine Learning  
 
-This repository contains various **Machine Learning models and experiments** implemented in Python using Jupyter Notebooks (`.ipynb`). The goal is to understand, practice, and apply different ML algorithms to real-world datasets.  
+This repository contains various **Machine Learning models and experiments along with EDA(Exploratory Data Analysis)** implemented in Python using Jupyter Notebooks (`.ipynb`). The goal is to understand, practice, and apply different ML algorithms to real-world datasets and recommend insights through EDA.  
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains various **Machine Learning models and experiments** imp
   - Classification (Logistic Regression, KNN, SVM, Naive Bayes, etc.)  
 - **Unsupervised Learning**  
   - Clustering (K-Means, Hierarchical, DBSCAN)  
-  - Dimensionality Reduction (PCA, t-SNE)  
+  - Dimensionality Reduction (PCA)  
 - **Exploratory Data Analysis (EDA)**  
 - **Feature Engineering & Data Preprocessing**  
 - **Model Evaluation & Metrics**  
