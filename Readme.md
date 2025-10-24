@@ -10,7 +10,8 @@ This repository contains various **Machine Learning models and experiments along
   - Classification (Logistic Regression, KNN, SVM, Naive Bayes, etc.)  
 - **Unsupervised Learning**  
   - Clustering (K-Means, Hierarchical, DBSCAN)  
-  - Dimensionality Reduction (PCA)  
+  - Dimensionality Reduction (PCA)
+- **Recommender System** 
 - **Exploratory Data Analysis (EDA)**  
 - **Feature Engineering & Data Preprocessing**  
 - **Model Evaluation & Metrics**  
