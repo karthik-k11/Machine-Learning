@@ -28,11 +28,3 @@ This repository contains various **Machine Learning models and experiments along
 
 ## 🎯 Goal  
 The aim of this repository is to build a strong foundation in **machine learning concepts** and develop a collection of ML models that can be used for academic learning, research, and real-world applications.  
-
----
-
-## 📌 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/karthik-k11/Machine-Learning.git
-
